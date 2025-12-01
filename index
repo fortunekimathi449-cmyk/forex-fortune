@@ -1,0 +1,11 @@
+
+import Chart from '../components/Chart';
+
+export default function Home() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h1>Forex Trading Dashboard</h1>
+      <Chart />
+    </div>
+  );
+}
