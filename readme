@@ -1,0 +1,12 @@
+
+# Forex Trading Website (Starter)
+
+This is a complete starter template for a forex trading website with charts,
+indicators, and news endpoints. You can push this directly to GitHub and deploy on Vercel.
+
+## Run locally
+npm install
+npm run dev
+
+## Deploy to Vercel
+vercel
